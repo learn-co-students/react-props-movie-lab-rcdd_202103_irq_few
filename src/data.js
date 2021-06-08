@@ -17,7 +17,7 @@ const movieData = [
     genres: ['thriller', 'romance'],
     poster: 'chromeboi'
   },
-  
+
   {
     title: 'Escape from VIM',
     IMDBRating: 0,
@@ -56,4 +56,4 @@ const movieData = [
   },
 ]
 
-export default movieData
+export default movieData;
